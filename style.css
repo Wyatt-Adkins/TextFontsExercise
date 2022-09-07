@@ -4,7 +4,7 @@
 
 span {font-weight: bold;}
 
-h1 { text-align: center; height: 50px;letter-spacing: 10px; text-transform: capitalize;  text-decoration: underline; }
+h1 { font-size: 50px; text-align: center; letter-spacing: 10px; text-transform: capitalize;  text-decoration: underline; }
 
 #series-movies { font-size: 20px;}
 
